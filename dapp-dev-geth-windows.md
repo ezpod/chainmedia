@@ -2,7 +2,7 @@
 
 如果你不喜欢浪费时间在开发环境的搭建上，可以使用汇智网的在线教程：
 
-[以太坊DApp开发实战入门](http://xc.hubwiz.com/course/5a952991adb3847553d205d1?affid=csdnvat7878)
+[以太坊DApp开发实战入门](http://xc.hubwiz.com/course/5a952991adb3847553d205d1?affid=github7878)
 
 # 一、安装DApp开发环境
 ## 1.1 安装Node.js
